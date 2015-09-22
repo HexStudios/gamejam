@@ -1,3 +1,9 @@
+add the .uproject file, the .umap files and any new content that you have added in the file and push it, then you can just add it to the infiltrator demo
+
+
+
+PUSH:
+
 git add --all
 
 git commit -m "Comment"
@@ -6,4 +12,7 @@ git push origin master
 
 the username and password are HexStudios and gamedevs2015 REMEMBER THIS
 
-add the .uproject file, the .umap files and any new content that you have added in the file and push it, then you can just add it to the infiltrator demo
+
+PULL:
+
+git pull origin master
