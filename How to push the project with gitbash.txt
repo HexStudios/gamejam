@@ -1,7 +1,0 @@
-git add --all
-
-git commit -m "Comment"
-
-git push origin master
-
-the username and password are HexStudios and gamedevs2015
